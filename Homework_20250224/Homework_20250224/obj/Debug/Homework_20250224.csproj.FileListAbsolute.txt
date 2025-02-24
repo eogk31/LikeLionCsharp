@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Homework_20250224\Homework_20250224\bin\Debug\Homework_20250224.exe.config
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Homework_20250224\Homework_20250224\bin\Debug\Homework_20250224.exe
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Homework_20250224\Homework_20250224\bin\Debug\Homework_20250224.pdb
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Homework_20250224\Homework_20250224\obj\Debug\Homework_20250224.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Homework_20250224\Homework_20250224\obj\Debug\Homework_20250224.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Homework_20250224\Homework_20250224\obj\Debug\Homework_20250224.exe
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Homework_20250224\Homework_20250224\obj\Debug\Homework_20250224.pdb

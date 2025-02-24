@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1FF61C-E908-4849-B19C-B196B606DFC6}|LikeLion_11\\LikeLion_11.csproj|c:\\users\\admin\\desktop\\likelion\\likelioncsharp\\likelion_11\\likelion_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1FF61C-E908-4849-B19C-B196B606DFC6}|LikeLion_11\\LikeLion_11.csproj|solutionrelative:likelion_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_11\\LikeLion_11\\Program.cs",
+              "RelativeDocumentMoniker": "LikeLion_11\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_11\\LikeLion_11\\Program.cs",
+              "RelativeToolTip": "LikeLion_11\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAgwGoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:47:42.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
