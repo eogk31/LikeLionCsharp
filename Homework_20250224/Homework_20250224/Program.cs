@@ -24,6 +24,8 @@ namespace Homework_20250224
             string str3 = Console.ReadLine();
             int num3 = int.Parse(str3);
 
+            //int max2 = num1 < num2 ? num2 : (num1 < num3)? num3: num1;
+
             int max = num1;
 
             if (num2 > max)
@@ -86,7 +88,12 @@ namespace Homework_20250224
                     Console.WriteLine("0으로 나눌 수 없습니다.");
                     return;
                 }
-                
+
+            }
+            else
+            {
+                Console.WriteLine("잘못된 연산자입니다.");
+                return;
             }
 
             Console.WriteLine($"결과: {n1} {op} {m1} = {result}");
