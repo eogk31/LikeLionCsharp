@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Rakshasa\Rakshasa\bin\Debug\Rakshasa.exe.config
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Rakshasa\Rakshasa\bin\Debug\Rakshasa.exe
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Rakshasa\Rakshasa\bin\Debug\Rakshasa.pdb
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Rakshasa\Rakshasa\obj\Debug\Rakshasa.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Rakshasa\Rakshasa\obj\Debug\Rakshasa.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Rakshasa\Rakshasa\obj\Debug\Rakshasa.exe
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Rakshasa\Rakshasa\obj\Debug\Rakshasa.pdb

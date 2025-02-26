@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Bingo_2Array\Bingo_2Array\bin\Debug\Bingo_2Array.exe.config
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Bingo_2Array\Bingo_2Array\bin\Debug\Bingo_2Array.exe
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Bingo_2Array\Bingo_2Array\bin\Debug\Bingo_2Array.pdb
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Bingo_2Array\Bingo_2Array\obj\Debug\Bingo_2Array.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Bingo_2Array\Bingo_2Array\obj\Debug\Bingo_2Array.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Bingo_2Array\Bingo_2Array\obj\Debug\Bingo_2Array.exe
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\Bingo_2Array\Bingo_2Array\obj\Debug\Bingo_2Array.pdb
