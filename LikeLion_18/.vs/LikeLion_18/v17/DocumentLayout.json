@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE9E2B6-2CB6-49A2-9D62-39BA8EB55A72}|LikeLion_18_3\\LikeLion_18_3.csproj|c:\\users\\admin\\desktop\\likelion\\likelioncsharp\\likelion_18\\likelion_18_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE9E2B6-2CB6-49A2-9D62-39BA8EB55A72}|LikeLion_18_3\\LikeLion_18_3.csproj|solutionrelative:likelion_18_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86E6F62-2866-4B54-ACDA-24866A7439C6}|LikeLion_18_2\\LikeLion_18_2.csproj|c:\\users\\admin\\desktop\\likelion\\likelioncsharp\\likelion_18\\likelion_18_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86E6F62-2866-4B54-ACDA-24866A7439C6}|LikeLion_18_2\\LikeLion_18_2.csproj|solutionrelative:likelion_18_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C489F38-42E1-428B-A03F-0B3C01E1CFCB}|LikeLion_18\\LikeLion_18.csproj|c:\\users\\admin\\desktop\\likelion\\likelioncsharp\\likelion_18\\likelion_18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C489F38-42E1-428B-A03F-0B3C01E1CFCB}|LikeLion_18\\LikeLion_18.csproj|solutionrelative:likelion_18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_18\\LikeLion_18_3\\Program.cs",
+              "RelativeDocumentMoniker": "LikeLion_18_3\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_18\\LikeLion_18_3\\Program.cs",
+              "RelativeToolTip": "LikeLion_18_3\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwFkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T01:39:45.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_18\\LikeLion_18_2\\Program.cs",
+              "RelativeDocumentMoniker": "LikeLion_18_2\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_18\\LikeLion_18_2\\Program.cs",
+              "RelativeToolTip": "LikeLion_18_2\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAUwD4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T01:00:40.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_18\\LikeLion_18\\Program.cs",
+              "RelativeDocumentMoniker": "LikeLion_18\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_18\\LikeLion_18\\Program.cs",
+              "RelativeToolTip": "LikeLion_18\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA9wGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:58:03.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
