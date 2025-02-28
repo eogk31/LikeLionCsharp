@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\NewShootingGame\NewShootingGame\bin\Debug\NewShootingGame.exe.config
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\NewShootingGame\NewShootingGame\bin\Debug\NewShootingGame.exe
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\NewShootingGame\NewShootingGame\bin\Debug\NewShootingGame.pdb
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\NewShootingGame\NewShootingGame\obj\Debug\NewShootingGame.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\NewShootingGame\NewShootingGame\obj\Debug\NewShootingGame.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\NewShootingGame\NewShootingGame\obj\Debug\NewShootingGame.exe
+C:\Users\ADMIN\Desktop\likelion\LikeLionCsharp\NewShootingGame\NewShootingGame\obj\Debug\NewShootingGame.pdb
