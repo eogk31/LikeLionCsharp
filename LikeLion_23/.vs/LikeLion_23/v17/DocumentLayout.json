@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C186160-5F91-4632-95CF-EDF0D6A3A6D4}|Homework_20250304\\Homework_20250304.csproj|c:\\users\\admin\\desktop\\likelion\\likelioncsharp\\likelion_23\\homework_20250304\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C186160-5F91-4632-95CF-EDF0D6A3A6D4}|Homework_20250304\\Homework_20250304.csproj|solutionrelative:homework_20250304\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8BA5F7-B349-4C8A-8832-FEF98AEB66B0}|LikeLion_23_4\\LikeLion_23_4.csproj|c:\\users\\admin\\desktop\\likelion\\likelioncsharp\\likelion_23\\likelion_23_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8BA5F7-B349-4C8A-8832-FEF98AEB66B0}|LikeLion_23_4\\LikeLion_23_4.csproj|solutionrelative:likelion_23_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663E79EC-A1BA-466C-B4F8-D0799807B754}|LikeLion_23_3\\LikeLion_23_3.csproj|c:\\users\\admin\\desktop\\likelion\\likelioncsharp\\likelion_23\\likelion_23_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663E79EC-A1BA-466C-B4F8-D0799807B754}|LikeLion_23_3\\LikeLion_23_3.csproj|solutionrelative:likelion_23_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727C3317-E31A-4EB3-A13A-03AB1B7BF163}|LikeLion_23_2\\LikeLion_23_2.csproj|c:\\users\\admin\\desktop\\likelion\\likelioncsharp\\likelion_23\\likelion_23_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727C3317-E31A-4EB3-A13A-03AB1B7BF163}|LikeLion_23_2\\LikeLion_23_2.csproj|solutionrelative:likelion_23_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261287D5-B5F6-4FBE-92F2-E8EE823B7406}|LikeLion_23\\LikeLion_23.csproj|c:\\users\\admin\\desktop\\likelion\\likelioncsharp\\likelion_23\\likelion_23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261287D5-B5F6-4FBE-92F2-E8EE823B7406}|LikeLion_23\\LikeLion_23.csproj|solutionrelative:likelion_23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_23\\Homework_20250304\\Program.cs",
+              "RelativeDocumentMoniker": "Homework_20250304\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_23\\Homework_20250304\\Program.cs",
+              "RelativeToolTip": "Homework_20250304\\Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAHwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:50:42.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_23\\LikeLion_23_4\\Program.cs",
+              "RelativeDocumentMoniker": "LikeLion_23_4\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_23\\LikeLion_23_4\\Program.cs",
+              "RelativeToolTip": "LikeLion_23_4\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwDQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:50:28.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_23\\LikeLion_23_3\\Program.cs",
+              "RelativeDocumentMoniker": "LikeLion_23_3\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_23\\LikeLion_23_3\\Program.cs",
+              "RelativeToolTip": "LikeLion_23_3\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwE4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:55:17.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_23\\LikeLion_23_2\\Program.cs",
+              "RelativeDocumentMoniker": "LikeLion_23_2\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_23\\LikeLion_23_2\\Program.cs",
+              "RelativeToolTip": "LikeLion_23_2\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwGwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:50:48.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_23\\LikeLion_23\\Program.cs",
+              "RelativeDocumentMoniker": "LikeLion_23\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\likelion\\LikeLionCsharp\\LikeLion_23\\LikeLion_23\\Program.cs",
+              "RelativeToolTip": "LikeLion_23\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAwHcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:02:21.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
